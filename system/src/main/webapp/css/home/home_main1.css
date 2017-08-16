@@ -1,0 +1,44 @@
+@charset "utf-8";
+html{width:100%;height:1742px; margin:auto;}
+body{width:100%;height:1742px; margin:auto;overflow:hidden;}
+.fuzzy{position: absolute;width: 100%;height: 100%;margin: auto;background-color: white;opacity: 0.5;z-index: 90;display:none;}
+.popup{display: none; border: 1px blue solid;position: fixed;width: 450px;height: 360px;background-color: white;z-index: 100;left:0;top:395px;margin:auto;right:0;}
+.popup p{border-bottom:1px blue solid;    background-color: blanchedalmond;line-height: 38px; margin:0;}
+.popup tr{margin: 0px;}
+.showtable{margin:auto; overflow:auto;width:400px;height:300px;}
+.popup table{margin:auto;width:400px;height:300px;}
+.box{width:882px;height:1150px; margin:auto;}
+.main1{width:400px;height:845x; margin-left:0px;float:left;}
+.banner {width:400px;height:300px; position: relative; overflow: auto; }
+ul{padding: 0px;}
+li {list-style: none;line-height:20px; height:20px; overflow:hidden;}
+.banner ul li { width:400px;height:300px;float: left; left:0;}
+.banner img{width: 400px;height: 300px;}
+.dots{width:200px;position:absolute;bottom:10px;left:30%;margin-left:-27px;}  
+.dot{  
+    display:inline-block;  
+    width: 10px;  
+    height:10px;  
+    font-size: 0px;  
+    line-height: 0px;  
+    margin-right: 12px;  
+    cursor: pointer;  
+    background-color: #ffffff;  
+    border-radius: 8px;  
+}  
+.dot.active{background-color: #cce8cf;}
+.title{width:400px;height:20px; background-color:#C0C0C0;text-align:center;font-weight: 700;margin-bottom:5px;}
+.notice{width:400px;border: 1px #cccccc solid;margin-bottom:5px;}
+a{text-decoration:none;color:#000000;}
+a:hover{color:#FF8C00;}
+.list1 li{border-bottom: 1px #cccccc dotted;margin-bottom:15px;}
+td{width:200px;}
+tr{
+    display:block; /*将tr设置为块体元素*/
+    margin:5px 0px;  /*设置tr间距为2px*/
+    border-bottom:1px #cccccc dotted;
+}
+.interlink{width:400px;border:1px #cccccc solid;}
+.main2{width: 456px;height: 845px;margin-left: 427px;border:1px #cccccc solid}
+.main3{clear:both;width:882px;text-align:center;}
+#list3 li{width: 454px;}

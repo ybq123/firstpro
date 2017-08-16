@@ -1,0 +1,12 @@
+@charset "utf-8";
+html{ font-family:"微软雅黑";max-width:640px;min-width:320px;margin:0 auto;overflow-y:auto;overflow-x:auto;}
+body{font-family:"微软雅黑"; padding:0;font-size:16px;font-weight:normal;line-height:1.4em;height:100%;scrollbar-base-color:#e2e2e2;overflow-x:hidden;overflow-y:auto;max-width:640px;min-width:320px;margin:0 auto;background:none;}
+.main{background-position: center;background-repeat: no-repeat;background-size: 100% 90%;width: 100%;margin-top:40%;margin-left:0px;height: 350px;}
+.login{position: relative;margin-left: 36%;margin-top: 0;top: 75px;}
+p{margin-bottom:4%}
+input{background: none;border: 1px solid;border-color: #0074ff;}
+#yzm{width: 24%;}
+button{margin-left:4%;text-align:center;}
+.tail{position: relative;margin-left:6%;top: 69px;}
+#showDialogDiv{z-index:91;position:fixed;color:#fff;font-size:0.8em;width:90%;height:40px;line-height:40px;text-align:center;top:calc(40% - 20px);left:0px;margin:0px 5%;overflow:hidden;border-radius:3px;display:none;}
+#showDialogDiv span{background:rgba(102,102,102,0.9);line-height:20px;padding:10px 15px;border-radius:3px;}

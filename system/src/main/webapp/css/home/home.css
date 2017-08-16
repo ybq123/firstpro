@@ -1,0 +1,20 @@
+@charset "utf-8";
+html{width:100%; height:100%;}
+body{width:100%;height:100%;}
+.head_logo{background: linear-gradient(to right,#035ca2,white);}
+.head_logo img{width: 20%;}
+.txt{width:80%;color: white;font-family: cursive;font-size:2em;}
+.head_menu{background-color: #035ca2;width:100%;}
+.breadcrumb ol li a{font-size:0.5em;}
+#showtime{font-size:0.5em;color:white;}
+a{cursor:pointer;}
+.left{float:left;margin-top:2px;}
+.clearboth{clear:both;}
+.mainpanel{margin-left: 201px;overflow: hidden;margin-top: 10px;}
+.navigationbar{position:absolute;width:200px;background-color: #035ca2;border:1px solid;height:100%;margin-left:0px;}
+.navigationbar p{width:198px; text-aligin:center;background-color: #035ca2;}
+.navigationbar p a{color: white;}
+.panel-title{text-align:center;}
+.popup_ss{display:none;position:absolute;z-index:100; left:50%;top:50%;width:300px;height:200px; margin-left:-150px;margin-top:-100px; border:1px solid #a7c5e2;}
+.popup_ss p{background-color:#a7c5e2;width:300px;}
+.popup_ss_main{background-color:white;height:177px;width:298px;} 

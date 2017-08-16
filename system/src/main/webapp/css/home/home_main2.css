@@ -1,0 +1,13 @@
+@charset "utf-8";
+html{width:100%;height:100%; margin:auto;}
+body{width:100%;height:100%; margin:auto;overflow:hidden;}
+.home_main2_title{margin:0 auto;color:blue; font-weight:700; width:100%; text-align:center;}
+#home_main2_zc{background:none;border:none;}
+.home_main2_form input{border:none;}
+.home_main2_form table{border-collapse: collapse}
+.home_main2_form select{border:1px solid #035ca2;}
+#home_main2_bz{color:#cccccc;}
+#home_main2_cls{width:111px;height:27px;text-align:center;}
+#home_main2_content{width:317px;height:27px;}
+#home_main2_content2{width:900px;height:60px;}
+#home_main2_txtarea{width: 100%;margin: 0;padding: 0;height: 100%;}

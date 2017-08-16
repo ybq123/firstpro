@@ -1,0 +1,9 @@
+@charset "utf-8";
+html{width:100%;height:100%;}
+body{width:100%;height:100%;}
+.head_logo{background: linear-gradient(to right,#035ca2,white);}
+.head_logo img{width: 20%;}
+.txt{width:80%;color: white;font-family: cursive;font-size:2em;}
+.head_menu{background-color: #035ca2;width:100%;}
+.breadcrumb ol li a{font-size:0.5em;}
+#showtime{font-size:0.5em;color:white;}

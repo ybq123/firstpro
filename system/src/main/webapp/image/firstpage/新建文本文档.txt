@@ -1,0 +1,16 @@
+@charset "utf-8";
+html{width:100%;over}
+body{width:100%}
+.head_logo{background: linear-gradient(to right,#035ca2,white);}
+img{width: 20%;}
+//.txt{width:80%;color: white;font-family: cursive;font-size:1.5em;}
+.head_menu{background-color: #035ca2;width:100%;}
+a{font-size:0.5em;}
+#showtime{font-size:0.5em;color:white;}
+
+
+
+
+
+
+<a class="ui_close" href="javascript:void(0);" title="¹Ø±Õ(esc¼ü)" style="display: inline-block;">¡Á</a>

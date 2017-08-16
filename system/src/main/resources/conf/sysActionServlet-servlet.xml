@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+<bean id="sysAction" class="system.SysAction">
+<property name="loginPage">
+<value>jsp/login/login.jsp</value>
+</property>
+<property name="helpPage">
+<value>jsp/login/help.jsp</value>
+</property>
+<property name="homePage">
+<value>jsp/home/home.jsp</value>
+</property>
+</bean>
+</beans>
